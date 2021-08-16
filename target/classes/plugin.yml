@@ -1,0 +1,12 @@
+name: LinkedDiscordAccounts
+version: 0.1
+main:  com.Joshua.LinkedDiscordPlugin
+commands:
+  Link:
+    description: Link your account
+    usage: '/Link'
+    aliases: [link]
+  NitroClaim:
+    description: Claims your nitro rewards
+    usage: '/NitroClaim'
+    aliases: [NitroClaim]

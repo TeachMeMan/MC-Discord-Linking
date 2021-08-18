@@ -11,7 +11,7 @@
 NitroRole: 'Nitro'
 DiscordGuildID: '806786926451490829'
 DiscordChannelID: '806786926451490829'
-DiscordToken: 'ODA2Nzg2NjYyNjk1Njk4NDYy.YBugoQ.kdHAzXVRVqIkGxlMyQSGq7J5nco'
+DiscordToken: ''
 DiscordCommand: '#link'
 LinkedDiscordCommand: 'Linked you to your discord account, %ID%'
 
